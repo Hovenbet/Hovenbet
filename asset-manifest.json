@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f70c464.css",
+    "main.js": "/static/js/main.84077f32.js",
+    "static/js/787.fea7b383.chunk.js": "/static/js/787.fea7b383.chunk.js",
+    "static/media/lofiForGhosts.jpeg": "/static/media/lofiForGhosts.a61604897cd2689c9193.jpeg",
+    "static/media/fly.jpg": "/static/media/fly.f5fae231acab2fdb7f90.jpg",
+    "static/media/sunflower.jpg": "/static/media/sunflower.3ad335c9ce8cda304e63.jpg",
+    "static/media/midnight.jpeg": "/static/media/midnight.28e266e55f07981aedfc.jpeg",
+    "static/media/cloud.jpg": "/static/media/cloud.38ab6ad6ef4c3c719c64.jpg",
+    "static/media/rosas.jpg": "/static/media/rosas.b70f055b39515c7ed212.jpg",
+    "static/media/lights.jpg": "/static/media/lights.2fa15464f84a42ede4ef.jpg",
+    "static/media/moon.jpg": "/static/media/moon.269d29a5be12b03a3fc2.jpg",
+    "static/media/better.jpg": "/static/media/better.a8cd1b0bf9a2701adb5f.jpg",
+    "static/media/po.jpeg": "/static/media/po.037ba0bb484f1e62b371.jpeg",
+    "index.html": "/index.html",
+    "main.5f70c464.css.map": "/static/css/main.5f70c464.css.map",
+    "main.84077f32.js.map": "/static/js/main.84077f32.js.map",
+    "787.fea7b383.chunk.js.map": "/static/js/787.fea7b383.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f70c464.css",
+    "static/js/main.84077f32.js"
+  ]
+}
